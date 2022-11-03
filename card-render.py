@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-DEBUG=1
+DEBUG=0
 
 import simfile
 import os
